@@ -1,0 +1,306 @@
+<rDE xmlns="http://ekuatia.set.gov.py/sifen/xsd"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://ekuatia.set.gov.py/sifen/xsd siRecepDE_v150.xsd">
+	<dVerFor>150</dVerFor>
+	<DE Id="01011287900001001000000122024082110002983980">
+		<dDVId>0</dDVId>
+		<dFecFirma>2024-12-19T19:43:08</dFecFirma>
+		<dSisFact>1</dSisFact>
+		<gOpeDE>
+			<iTipEmi>1</iTipEmi>
+			<dDesTipEmi>Normal</dDesTipEmi>
+			<dCodSeg>000298398</dCodSeg>
+			<dInfoEmi>Cualquier informacion de marketing, publicidad, sorteos, promociones para el Receptor</dInfoEmi>
+			<dInfoFisc>Aparece en el documento</dInfoFisc>
+		</gOpeDE>
+		<gTimb>
+			<iTiDE>1</iTiDE>
+			<dDesTiDE>Factura electrónica</dDesTiDE>
+			<dNumTim>17444827</dNumTim>
+			<dEst>001</dEst>
+			<dPunExp>001</dPunExp>
+			<dNumDoc>0000001</dNumDoc>
+			<dFeIniT>2025-08-31</dFeIniT>
+		</gTimb>
+		<gDatGralOpe>
+			<dFeEmiDE>2024-08-21T10:11:00</dFeEmiDE>
+			<gOpeCom>
+				<iTipTra>1</iTipTra>
+				<dDesTipTra>Venta de mercadería</dDesTipTra>
+				<iTImp>1</iTImp>
+				<dDesTImp>IVA</dDesTImp>
+				<cMoneOpe>PYG</cMoneOpe>
+				<dDesMoneOpe>Guarani</dDesMoneOpe>
+				<iCondAnt>1</iCondAnt>
+				<dDesCondAnt>Anticipo Global</dDesCondAnt>
+			</gOpeCom>
+			<gEmis>
+				<dRucEm>1128790</dRucEm>
+				<dDVEmi>0</dDVEmi>
+				<iTipCont>2</iTipCont>
+				<cTipReg>8</cTipReg>
+				<dNomEmi>DE generado en ambiente de prueba - sin valor comercial ni fiscal</dNomEmi>
+				<dNomFanEmi>ELIZECHE QUINTANA, EDGAR CARMELO</dNomFanEmi>
+				<dDirEmi>Barrio Las Colinas</dDirEmi>
+				<dNumCas>999</dNumCas>
+				<dCompDir1>Leandro Cacavellos</dCompDir1>
+				<dCompDir2>Enrique Lara</dCompDir2>
+				<cDepEmi>1</cDepEmi>
+				<dDesDepEmi>CAPITAL</dDesDepEmi>
+				<cDisEmi>1</cDisEmi>
+				<dDesDisEmi>ASUNCION (DISTRITO)</dDesDisEmi>
+				<cCiuEmi>1</cCiuEmi>
+				<dDesCiuEmi>ASUNCION (DISTRITO)</dDesCiuEmi>
+				<dTelEmi>0981-340160</dTelEmi>
+				<dEmailE>edgar.elizeche@gmail.com</dEmailE>
+				<dDenSuc>Sucursal 1</dDenSuc>
+				<gActEco>
+					<cActEco>1254</cActEco>
+					<dDesActEco>Desarrollo de Software</dDesActEco>
+				</gActEco>
+				<gRespDE>
+					<iTipIDRespDE>1</iTipIDRespDE>
+					<dDTipIDRespDE>Cédula paraguaya</dDTipIDRespDE>
+					<dNumIDRespDE>157264</dNumIDRespDE>
+					<dNomRespDE>Marcos Jara</dNomRespDE>
+					<dCarRespDE>Vendedor</dCarRespDE>
+				</gRespDE>
+			</gEmis>
+			<gDatRec>
+				<iNatRec>1</iNatRec>
+				<iTiOpe>1</iTiOpe>
+				<cPaisRec>PRY</cPaisRec>
+				<dDesPaisRe>Paraguay</dDesPaisRe>
+				<iTiContRec>1</iTiContRec>
+				<dRucRec>2005001</dRucRec>
+				<dDVRec>1</dDVRec>
+				<dNomRec>Marcos Adrian Jara Rodriguez</dNomRec>
+				<dNomFanRec>Marcos Adrian Jara Rodriguez</dNomFanRec>
+				<dDirRec>Avda Calle Segunda y Proyectada</dDirRec>
+				<dNumCasRec>1515</dNumCasRec>
+				<cDepRec>11</cDepRec>
+				<dDesDepRec>ALTO PARANA</dDesDepRec>
+				<cDisRec>143</cDisRec>
+				<dDesDisRec>DOMINGO MARTINEZ DE IRALA</dDesDisRec>
+				<cCiuRec>3344</cCiuRec>
+				<dDesCiuRec>PASO ITA (INDIGENA)</dDesCiuRec>
+				<dTelRec>061-575903</dTelRec>
+				<dCelRec>0973-809103</dCelRec>
+				<dEmailRec>cliente@empresa.com</dEmailRec>
+				<dCodCliente>1548</dCodCliente>
+			</gDatRec>
+		</gDatGralOpe>
+		<gDtipDE>
+			<gCamFE>
+				<iIndPres>1</iIndPres>
+				<dDesIndPres>Operación presencial</dDesIndPres>
+				<dFecEmNR>2024-10-21</dFecEmNR>
+			</gCamFE>
+			<gCamCond>
+				<iCondOpe>1</iCondOpe>
+				<dDCondOpe>Contado</dDCondOpe>
+				<gPaConEIni>
+					<iTiPago>1</iTiPago>
+					<dDesTiPag>Efectivo</dDesTiPag>
+					<dMonTiPag>150000.0000</dMonTiPag>
+					<cMoneTiPag>PYG</cMoneTiPag>
+					<dDMoneTiPag>Guarani</dDMoneTiPag>
+				</gPaConEIni>
+				<gPaConEIni>
+					<iTiPago>3</iTiPago>
+					<dDesTiPag>Tarjeta de crédito</dDesTiPag>
+					<dMonTiPag>150000.0000</dMonTiPag>
+					<cMoneTiPag>PYG</cMoneTiPag>
+					<dDMoneTiPag>Guarani</dDMoneTiPag>
+					<gPagTarCD>
+						<iDenTarj>1</iDenTarj>
+						<dDesDenTarj>Visa</dDesDenTarj>
+						<dRSProTar>Bancard</dRSProTar>
+						<dRUCProTar>66954964</dRUCProTar>
+						<dDVProTar>1</dDVProTar>
+						<iForProPa>1</iForProPa>
+						<dCodAuOpe>232524234</dCodAuOpe>
+						<dNomTit>Marcos Jara</dNomTit>
+					</gPagTarCD>
+				</gPaConEIni>
+				<gPaConEIni>
+					<iTiPago>1</iTiPago>
+					<dDesTiPag>Efectivo</dDesTiPag>
+					<dMonTiPag>150000.0000</dMonTiPag>
+					<cMoneTiPag>PYG</cMoneTiPag>
+					<dDMoneTiPag>Guarani</dDMoneTiPag>
+				</gPaConEIni>
+			</gCamCond>
+			<gCamItem>
+				<dCodInt>A-001</dCodInt>
+				<dParAranc>4444</dParAranc>
+				<dNCM>ABCD1234</dNCM>
+				<dDesProSer>Producto o Servicio</dDesProSer>
+				<cUniMed>77</cUniMed>
+				<dDesUniMed>UNI</dDesUniMed>
+				<dCantProSer>10.5</dCantProSer>
+				<cPaisOrig>PRY</cPaisOrig>
+				<dDesPaisOrig>Paraguay</dDesPaisOrig>
+				<dInfItem>Información adicional o complementaria sobre el producto</dInfItem>
+				<gValorItem>
+					<dPUniProSer>10800</dPUniProSer>
+					<dTotBruOpeItem>113400</dTotBruOpeItem>
+					<gValorRestaItem>
+						<dDescItem>0</dDescItem>
+						<dDescGloItem>0</dDescGloItem>
+						<dAntPreUniIt>0</dAntPreUniIt>
+						<dAntGloPreUniIt>0</dAntGloPreUniIt>
+						<dTotOpeItem>113400</dTotOpeItem>
+					</gValorRestaItem>
+				</gValorItem>
+				<gCamIVA>
+					<iAfecIVA>1</iAfecIVA>
+					<dDesAfecIVA>Gravado IVA</dDesAfecIVA>
+					<dPropIVA>100</dPropIVA>
+					<dTasaIVA>5</dTasaIVA>
+					<dBasGravIVA>108000</dBasGravIVA>
+					<dLiqIVAItem>5400</dLiqIVAItem>
+					<dBasExe>0</dBasExe>
+				</gCamIVA>
+				<gRasMerc>
+					<dNumLote>A-001</dNumLote>
+					<dVencMerc>2025-10-30</dVencMerc>
+					<dNSerie>123</dNSerie>
+					<dNumPedi>123</dNumPedi>
+					<dNumSegui>123</dNumSegui>
+					<dNumReg>323223</dNumReg>
+					<dNumRegEntCom>RI-32/22</dNumRegEntCom>
+				</gRasMerc>
+				<gVehNuevo>
+					<iTipOpVN>1</iTipOpVN>
+					<dDesTipOpVN>Venta a representante</dDesTipOpVN>
+					<dChasis>45252345235423532</dChasis>
+					<dColor>Rojo</dColor>
+					<dPotencia>1500</dPotencia>
+					<dCapMot>5</dCapMot>
+					<dPNet>8000</dPNet>
+					<dPBruto>10000</dPBruto>
+					<iTipCom>9</iTipCom>
+					<dDesTipCom>Otro</dDesTipCom>
+					<dNroMotor>323234234234234234</dNroMotor>
+					<dCapTracc>151.01</dCapTracc>
+					<dAnoFab>2009</dAnoFab>
+					<cTipVeh>Camioneta</cTipVeh>
+					<dCapac>5</dCapac>
+					<dCilin>3500</dCilin>
+				</gVehNuevo>
+			</gCamItem>
+			<gTransp>
+				<iTipTrans>1</iTipTrans>
+				<dDesTipTrans>Propio</dDesTipTrans>
+				<iModTrans>1</iModTrans>
+				<dDesModTrans>Terrestre</dDesModTrans>
+				<iRespFlete>1</iRespFlete>
+				<cCondNeg>CFR</cCondNeg>
+				<dNuManif>AF-2541</dNuManif>
+				<dIniTras>2030-11-01</dIniTras>
+				<dFinTras>2030-11-01</dFinTras>
+				<cPaisDest>PRY</cPaisDest>
+				<dDesPaisDest>Paraguay</dDesPaisDest>
+				<gCamSal>
+					<dDirLocSal>Leandro Cacavellos</dDirLocSal>
+					<dNumCasSal>999</dNumCasSal>
+					<dComp1Sal>Leandro Cacavellos</dComp1Sal>
+					<dComp2Sal>Enrique Lara</dComp2Sal>
+					<cDepSal>1</cDepSal>
+					<dDesDepSal>CAPITAL</dDesDepSal>
+					<cDisSal>1</cDisSal>
+					<dDesDisSal>ASUNCION (DISTRITO)</dDesDisSal>
+					<cCiuSal>1</cCiuSal>
+					<dDesCiuSal>ASUNCION (DISTRITO)</dDesCiuSal>
+					<dTelSal>0971123123</dTelSal>
+				</gCamSal>
+				<gCamEnt>
+					<dDirLocEnt>Paraguay</dDirLocEnt>
+					<dNumCasEnt>999</dNumCasEnt>
+					<dComp1Ent>Entre calle 2</dComp1Ent>
+					<dComp2Ent>y Calle 7</dComp2Ent>
+					<cDepEnt>11</cDepEnt>
+					<dDesDepEnt>ALTO PARANA</dDesDepEnt>
+					<cDisEnt>143</cDisEnt>
+					<dDesDisEnt>DOMINGO MARTINEZ DE IRALA</dDesDisEnt>
+					<cCiuEnt>3344</cCiuEnt>
+					<dDesCiuEnt>PASO ITA (INDIGENA)</dDesCiuEnt>
+				</gCamEnt>
+				<gVehTras>
+					<dTiVehTras>Camioneta</dTiVehTras>
+					<dMarVeh>Nissan</dMarVeh>
+					<dTipIdenVeh>1</dTipIdenVeh>
+					<dNroIDVeh>232323-1</dNroIDVeh>
+					<dNroMatVeh>ALTO PARANA</dNroMatVeh>
+				</gVehTras>
+				<gCamTrans>
+					<iNatTrans>2</iNatTrans>
+					<dNomTrans>Paraguay</dNomTrans>
+					<iTipIDTrans>1</iTipIDTrans>
+					<dDTipIDTrans>Cédula paraguaya</dDTipIDTrans>
+					<dNumIDTrans>99714584</dNumIDTrans>
+					<cNacTrans>PRY</cNacTrans>
+					<dDesNacTrans>Paraguay</dDesNacTrans>
+					<dNumIDChof>123123123</dNumIDChof>
+					<dNomChof>Jose Benitez</dNomChof>
+					<dDomFisc>y Calle 7</dDomFisc>
+					<dDirChof>Jose Benitez</dDirChof>
+					<dNombAg>Jose Benitez</dNombAg>
+					<dRucAg>515415</dRucAg>
+					<dDVAg>1</dDVAg>
+					<dDirAge>Jose Benitez</dDirAge>
+				</gCamTrans>
+			</gTransp>
+		</gDtipDE>
+		<gTotSub>
+			<dSubExe>0</dSubExe>
+			<dSubExo>0</dSubExo>
+			<dSub5>113400</dSub5>
+			<dSub10>0</dSub10>
+			<dTotOpe>113400</dTotOpe>
+			<dTotDesc>0</dTotDesc>
+			<dTotDescGlotem>0</dTotDescGlotem>
+			<dTotAntItem>0</dTotAntItem>
+			<dTotAnt>0</dTotAnt>
+			<dPorcDescTotal>0</dPorcDescTotal>
+			<dDescTotal>0</dDescTotal>
+			<dAnticipo>0</dAnticipo>
+			<dRedon>0</dRedon>
+			<dTotGralOpe>113400</dTotGralOpe>
+			<dIVA5>5400</dIVA5>
+			<dIVA10>0</dIVA10>
+			<dLiqTotIVA5>0</dLiqTotIVA5>
+			<dLiqTotIVA10>0</dLiqTotIVA10>
+			<dTotIVA>5400</dTotIVA>
+			<dBaseGrav5>108000</dBaseGrav5>
+			<dBaseGrav10>0</dBaseGrav10>
+			<dTBasGraIVA>108000</dTBasGraIVA>
+		</gTotSub>
+		<gCamDEAsoc>
+			<iTipDocAso>1</iTipDocAso>
+			<dDesTipDocAso>Electrónico</dDesTipDocAso>
+			<dCdCDERef>01800695631001001000000612030112917595714694</dCdCDERef>
+		</gCamDEAsoc>
+	</DE>
+	<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+		<SignedInfo>
+			<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+			<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+			<Reference URI="#01011287900001001000000122024082110002983980">
+				<Transforms>
+					<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+					<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+				</Transforms>
+				<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+				<DigestValue>KTD4kRuReRlVlbAXwXvnX0nCCQDctR9cYG9tlvCG1j4=</DigestValue>
+			</Reference>
+		</SignedInfo>
+		<SignatureValue>C5dKyLYkv1Ek7HQZLxXjtUiOHAdcTxUWlN7qNpKU+zvqfWNScUPbsEr4jZUcR/LZnwTPOVvk9HMwt4cvpEBwBwbYwARSVFQi/d9vrOigmgy4NMYbtEi3elHcBnTSTT0bOQSG4Vqg7FSiOPl1m3X4exwnMbzTR4Q1ZPocspVEf6n7XarwiDv8GNg+sU+C4cZg5K1aX/YVMdixMzpDzlLz4Hcy4UopTcaLxz+lu9teqz1vaItNhTeglpIs/GpgVzWZh/+vx+bf8E7ECWbeCRBx10kSouykY/ZI2m8OmD2hgUe0wxljr520hKzB+Qj0fG+QehBgzFP/5PcUNlAVjfVKbg==</SignatureValue>
+		<KeyInfo>
+			<X509Data>
+				<X509Certificate>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</X509Certificate>
+			</X509Data>
+		</KeyInfo>
+	</Signature>
+</rDE>

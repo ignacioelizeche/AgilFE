@@ -1,0 +1,35 @@
+{
+  "name": "my-api-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-fileupload": "^1.5.1",
+    "facturacionelectronicapy-setapi": "^1.0.29",
+    "facturacionelectronicapy-xmlgen": "^1.0.251",
+    "facturacionelectronicapy-xmlsign": "^1.0.17",
+    "he": "^1.2.0",
+    "multer": "^1.4.5-lts.1",
+    "xml-formatter": "^3.6.3",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/express-fileupload": "^1.5.1",
+    "@types/he": "^1.2.3",
+    "@types/multer": "^1.4.12",
+    "@types/node": "^22.10.2",
+    "@types/xml2js": "^0.4.14",
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
